@@ -11,6 +11,7 @@
         <param>
           <type>int</type>
           <declname>intDeclName</declname>
+          <defname>intDefName</defname>
         </param>
         <param>
           <type>char</type>
