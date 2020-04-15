@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.19">
+  <compound refid="class_sep_decl_and_def" kind="class"><name>SepDeclAndDef</name>
+    <member refid="class_sep_decl_and_def_1aeb6a0f5c0c1e410803fb46a0f48eec36" kind="function"><name>myFunc</name></member>
+  </compound>
+  <compound refid="_c_make_lists_8txt" kind="file"><name>CMakeLists.txt</name>
+  </compound>
+  <compound refid="sep_decl_and_def_8cpp" kind="file"><name>sepDeclAndDef.cpp</name>
+  </compound>
+  <compound refid="sep_decl_and_def_8h" kind="file"><name>sepDeclAndDef.h</name>
+  </compound>
+</doxygenindex>

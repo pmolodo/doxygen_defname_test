@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.19">
+  <compounddef id="sep_decl_and_def_8h" kind="file" language="C++">
+    <compoundname>sepDeclAndDef.h</compoundname>
+    <includedby refid="sep_decl_and_def_8cpp" local="yes">sepDeclAndDef.cpp</includedby>
+    <innerclass refid="class_sep_decl_and_def" prot="public">SepDeclAndDef</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">//<sp/>sepDeclAndDef.h</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3" refid="class_sep_decl_and_def" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_sep_decl_and_def" kindref="compound">SepDeclAndDef</ref><sp/>{</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">long</highlight><highlight class="normal"><sp/><ref refid="class_sep_decl_and_def_1aeb6a0f5c0c1e410803fb46a0f48eec36" kindref="member">myFunc</ref>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>intDeclName,<sp/></highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>charDeclDefName,<sp/></highlight><highlight class="keywordtype">long</highlight><highlight class="normal">);</highlight></codeline>
+<codeline lineno="6"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
+    <location file="sepDeclAndDef.h"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.19">
+  <compounddef id="class_sep_decl_and_def" kind="class" language="C++" prot="public">
+    <compoundname>SepDeclAndDef</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_sep_decl_and_def_1aeb6a0f5c0c1e410803fb46a0f48eec36" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>long</type>
+        <definition>long SepDeclAndDef::myFunc</definition>
+        <argsstring>(int intDeclName, char charDeclDefName, long)</argsstring>
+        <name>myFunc</name>
+        <param>
+          <type>int</type>
+          <declname>intDeclName</declname>
+        </param>
+        <param>
+          <type>char</type>
+          <declname>charDeclDefName</declname>
+        </param>
+        <param>
+          <type>long</type>
+          <defname>longDefName</defname>
+        </param>
+        <briefdescription>
+<para>Implementation docs. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="sepDeclAndDef.h" line="5" column="10" bodyfile="sepDeclAndDef.cpp" bodystart="6" bodyend="10"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="sepDeclAndDef.h" line="3" column="1" bodyfile="sepDeclAndDef.h" bodystart="3" bodyend="6"/>
+    <listofallmembers>
+      <member refid="class_sep_decl_and_def_1aeb6a0f5c0c1e410803fb46a0f48eec36" prot="public" virt="non-virtual"><scope>SepDeclAndDef</scope><name>myFunc</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
